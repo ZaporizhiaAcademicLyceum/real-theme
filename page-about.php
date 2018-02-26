@@ -4,8 +4,7 @@
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
                 <div class="row post-single">
-                    <h1 class="text-center">О школе</h1>
-                    <h3 class="text-center"><i>Региональный Европейский Академический Лицей</i></h3>
+                    <h2 class="text-center" style="margin-bottom: 32px;"><i>Региональный Европейский Академический Лицей</i></h2>
                     <div class="row">
                         <div class="col-md-9">
                             <blockquote>

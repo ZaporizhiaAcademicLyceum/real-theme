@@ -538,3 +538,8 @@ body {
     padding-top: 13px !important;
     padding-bottom: 13px !important;
 }
+
+.contacts-map {
+    border-radius: 2px;
+    border: 0;
+}
