@@ -57,10 +57,10 @@
             endif; ?>
             <ul class="nav navbar-nav navbar-social">
                 <li>
-                    <a title="ВКонтакте" href="http://vk.com/realschool"><i class="fa fa-vk" aria-hidden="true"></i></a>
+                    <a title="ВКонтакте" href="https://vk.com/realschool"><i class="fa fa-vk" aria-hidden="true"></i></a>
                 </li>
                 <li>
-                    <a title="Facebook" href="https://ru-ru.facebook.com/people/%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0-%D0%94%D0%B5%D0%B4%D1%8E%D0%BA/100002237042284"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a title="Facebook" href="https://www.facebook.com/groups/138761256334908/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                 </li>
                 <li>
                     <a title="YouTube" href="https://www.youtube.com/channel/UCZZ5tZEE2sHbpt4To442OoA"><i class="fa fa-youtube" aria-hidden="true"></i></a>
